@@ -1,7 +1,7 @@
 // Reading the file using default
 // fs npm package
 const fs = require("fs");
-csv = fs.readFileSync("CSV_file.csv")
+csv = fs.readFileSync("test.csv")
 
 // Convert the data to String and
 // split it in an array
